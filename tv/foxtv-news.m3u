@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBCNews" tvg-name="BBC News" group-title="國際新聞",BBC News
+# TODO: 將下面行換成你有權使用嘅 BBC 串流連結（我冇辦法確認到官方免費 m3u8）
+https://REPLACE-WITH-YOUR-BBC-STREAM-URL/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="Al Jazeera English" group-title="國際新聞",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="DWEnglish" tvg-name="DW English" group-title="國際新聞",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="France24English" tvg-name="France 24 English" group-title="國際新聞",France 24 English
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="NHKWorld" tvg-name="NHK World-Japan" group-title="國際新聞",NHK World-Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-id="SkyNews" tvg-name="Sky News" group-title="國際新聞",Sky News
+# TODO: 填你有權使用嘅 Sky News 串流連結
+https://REPLACE-WITH-YOUR-SKYNEWS-STREAM-URL/index.m3u8
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" group-title="國際新聞",CNA
+# TODO: 填你有權使用嘅 CNA 串流連結
+https://REPLACE-WITH-YOUR-CNA-STREAM-URL/index.m3u8
